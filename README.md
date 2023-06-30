@@ -7,10 +7,17 @@
   <a href="mailto:iam@taeju.kim" target="_blank"><img src="https://img.shields.io/badge/iam@taeju.kim-EE4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 </p>
 
-### Software QA Engineer @NHN Enterprise
+### Software QA Engineer @Woowa Bros.
 
 ### 🏢 Experience
-#### NHN Enterprise (2020.10 ~ Present)
+#### Woowa Bros. (2023.04 ~ )
+```
+Baemin platform QA Engineer
+* settlement service QA
+```
+
+
+#### NHN Enterprise (2020.10 ~ 2023.04)
 ```
 NHN cloud service QA Engineer 
 * Automation test for NHN cloud notification service and more 
