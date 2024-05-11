@@ -14,6 +14,8 @@
 ```
 Baemin platform QA Engineer
 * settlement service QA
+* billing service QA
+* broker service QA
 ```
 
 
