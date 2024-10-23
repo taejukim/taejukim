@@ -7,10 +7,17 @@
   <a href="mailto:iam@taeju.kim" target="_blank"><img src="https://img.shields.io/badge/iam@taeju.kim-EE4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 </p>
 
-### Software QA Engineer @Woowa Bros.
+### Software QA Engineer @Kakao Corp
 
 ### 🏢 Experience
-#### Woowa Bros. (2023.04 ~ )
+
+#### Kakao corp. (2024.10 ~ )
+```
+Kakao Service QA Engineer
+* Kakao Gift service QA
+```
+
+#### Woowa Bros. (2023.04 ~ 2024.10)
 ```
 Baemin platform QA Engineer
 * settlement service QA
