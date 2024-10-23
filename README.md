@@ -13,7 +13,7 @@
 
 #### Kakao corp. (2024.10 ~ )
 ```
-Kakao Service QA Engineer
+Kakao Commerce Service QA Engineer
 * Kakao Gift service QA
 ```
 
